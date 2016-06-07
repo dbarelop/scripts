@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/usr/bin/nodejs
 
 var bot = require('telegram-bot-bootstrap');
 var https = require('https');
